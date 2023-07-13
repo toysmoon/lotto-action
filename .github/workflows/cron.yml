@@ -14,3 +14,4 @@ jobs:
           id: ${{ secrets.ID }}
           pwd: ${{ secrets.PASSWORD }}
           token: ${{ secrets.GITHUB_TOKEN }}
+          amount: 2
